@@ -1,0 +1,74 @@
+body
+{
+	background-image: url(../img/fon.jpg);
+}
+.search
+{
+	text-align:center;
+	margin: 10px;
+}
+#content
+{
+	width: 70%;
+	float: left;
+	opacity:0.95;
+	margin-top: 15px;
+}
+#pages
+{
+	background-image: url(../img/fon90.jpg) ;
+	margin-left: 70%;
+	width: 30%;
+	opacity:0.95;
+	margin-top: 15px;
+}
+#searchline
+{
+	background: #FEFDFC;
+	color: #272822;
+	width:65%;
+	height:30px; 
+	opacity: 0.9;
+}
+#searchbutton
+{
+	background: #FEFDFC;
+	color: #272822;
+	width: 60px;
+	height: 30px;
+	opacity: 0.9;
+}
+.ichref
+{
+	margin: 15px;
+	
+}
+#bottom
+{
+	background: ;
+	height: 30px;
+	width: 100%;
+	opacity: 0.85;
+}
+#gifpage
+{
+	margin-left: 15%;
+	margin-right: 15%;
+	background:;
+	opacity: 0.99;
+	text-align: center;
+}
+.gifimg
+{
+	width: 450px;
+	height: 253px;
+	margin: 5px;
+}
+.gbutton
+{
+	margin: 5px;
+	width: 60px;
+	height: 25px;
+	background: ;
+	color: ;
+}
